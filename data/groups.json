@@ -1,304 +1,318 @@
 [
   {
     "id": "home-assistant-local-smart-home-hub-reddit-1",
-    "title": "r/technology World News",
+    "title": "r/homeassistant Open Source Automation",
     "platform": "Reddit",
-    "category": "Tech News",
-    "memberCount": "14,000,000+ members",
-    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/technology/",
+    "category": "Home Assistant",
+    "memberCount": "340,000+ members",
+    "description": "The premier community for Home Assistant installations, custom dashboards, automations, and integrations.",
+    "joinUrl": "https://www.reddit.com/r/homeassistant/",
     "tags": [
-      "technology",
-      "news",
-      "industry",
+      "homeassistant",
+      "smarthome",
+      "iot",
       "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "home-assistant-local-smart-home-hub-reddit-2",
-    "title": "r/science Academic Research",
-    "platform": "Reddit",
-    "category": "Science & Innovation",
-    "memberCount": "32,000,000+ members",
-    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
-    "joinUrl": "https://www.reddit.com/r/science/",
-    "tags": [
-      "science",
-      "research",
-      "innovation",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-3",
-    "title": "r/linux Open Source OS",
-    "platform": "Reddit",
-    "category": "Linux & OS",
-    "memberCount": "920,000+ members",
-    "description": "All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.",
-    "joinUrl": "https://www.reddit.com/r/linux/",
-    "tags": [
-      "linux",
-      "kernel",
-      "open-source",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-discord-4",
-    "title": "Technology & Science Discord",
+    "id": "home-assistant-local-smart-home-hub-discord-2",
+    "title": "Home Assistant Official Discord",
     "platform": "Discord",
-    "category": "Tech Discussion",
-    "memberCount": "90,000+ members",
-    "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
-    "joinUrl": "https://discord.gg/technology",
+    "category": "Home Assistant",
+    "memberCount": "170,000+ members",
+    "description": "Real-time support, configuration troubleshooting, Lovelace dashboard showcases, and beta testing.",
+    "joinUrl": "https://discord.gg/home-assistant",
     "tags": [
-      "technology",
+      "homeassistant",
       "discord",
-      "science",
-      "discussion"
+      "iot",
+      "automation"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "home-assistant-local-smart-home-hub-telegram-5",
-    "title": "TechCrunch Official Channel",
-    "platform": "Telegram",
-    "category": "Tech News",
-    "memberCount": "110,000+ members",
-    "description": "Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.",
-    "joinUrl": "https://t.me/techcrunch",
-    "tags": [
-      "techcrunch",
-      "telegram",
-      "news",
-      "startups"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-forum-6",
-    "title": "Hacker News Community",
+    "id": "home-assistant-local-smart-home-hub-forum-3",
+    "title": "Home Assistant Community Forum",
     "platform": "Forum",
-    "category": "Computer Science & Startups",
-    "memberCount": "5,000,000+ members",
-    "description": "Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.",
-    "joinUrl": "https://news.ycombinator.com",
-    "tags": [
-      "hackernews",
-      "yc",
-      "startups",
-      "forum"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-7",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-discord-8",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-telegram-9",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
-    "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-10",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-discord-11",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
+    "category": "Home Assistant",
     "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "description": "Official forum for blueprints, architectural proposals, hardware compatibility lists, and custom component releases.",
+    "joinUrl": "https://community.home-assistant.io",
     "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
+      "homeassistant",
+      "blueprints",
+      "forum",
+      "official"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "home-assistant-local-smart-home-hub-reddit-12",
-    "title": "r/rust Systems Programming",
+    "id": "home-assistant-local-smart-home-hub-reddit-4",
+    "title": "r/smarthome Connected Living & IoT",
     "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
+    "category": "Smart Home",
+    "memberCount": "270,000+ members",
+    "description": "Smart home product comparisons, ecosystem architecture (Matter, Thread, Zigbee), and lighting automation.",
+    "joinUrl": "https://www.reddit.com/r/smarthome/",
     "tags": [
-      "rust",
-      "systems",
-      "concurrency",
+      "smarthome",
+      "matter",
+      "thread",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-discord-13",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-telegram-14",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-15",
-    "title": "r/javascript Global Hub",
+    "id": "home-assistant-local-smart-home-hub-reddit-5",
+    "title": "r/homelab Self-Hosted Servers & Hardware",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "category": "Homelab",
+    "memberCount": "720,000+ members",
+    "description": "Rackmount servers, mini PCs, hypervisors (Proxmox/ESXi), UPS telemetry, and private cloud hosting.",
+    "joinUrl": "https://www.reddit.com/r/homelab/",
     "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
+      "homelab",
+      "proxmox",
+      "hardware",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-discord-16",
-    "title": "Reactiflux Discord Community",
+    "id": "home-assistant-local-smart-home-hub-discord-6",
+    "title": "Homelab & IoT Guild Discord",
     "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
+    "category": "Homelab",
+    "memberCount": "60,000+ members",
+    "description": "Active community discussing self-hosting, Docker services, network segmentation, and ZFS storage.",
+    "joinUrl": "https://discord.gg/homelab",
     "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "homelab",
+      "selfhosted",
+      "networking",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-telegram-17",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
+    "id": "home-assistant-local-smart-home-hub-reddit-7",
+    "title": "r/homeautomation Protocols & Custom Logic",
+    "platform": "Reddit",
+    "category": "Home Automation",
+    "memberCount": "2,100,000+ members",
+    "description": "Comprehensive resource for smart home hardware, relays, motorized shades, presence sensors, and scripts.",
+    "joinUrl": "https://www.reddit.com/r/homeautomation/",
     "tags": [
-      "webdev",
-      "frontend",
+      "automation",
+      "sensors",
+      "relays",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-8",
+    "title": "r/Zigbee Low-Power Mesh Networking",
+    "platform": "Reddit",
+    "category": "Zigbee",
+    "memberCount": "45,000+ members",
+    "description": "Dedicated discussion on Zigbee coordinators, Zigbee2MQTT, router devices, channel interference, and pairing.",
+    "joinUrl": "https://www.reddit.com/r/Zigbee/",
+    "tags": [
+      "zigbee",
+      "zigbee2mqtt",
+      "mesh",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-9",
+    "title": "r/esp8266 Microcontrollers & Sensors",
+    "platform": "Reddit",
+    "category": "Microcontrollers",
+    "memberCount": "85,000+ members",
+    "description": "ESP8266 Wi-Fi modules, NodeMCU circuits, custom environmental telemetry sensors, and low-cost relays.",
+    "joinUrl": "https://www.reddit.com/r/esp8266/",
+    "tags": [
+      "esp8266",
+      "hardware",
+      "sensors",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-10",
+    "title": "r/esp32 High-Performance IoT Firmware",
+    "platform": "Reddit",
+    "category": "ESP32",
+    "memberCount": "110,000+ members",
+    "description": "Dual-core ESP32 projects, BLE proxies, camera streaming, FreeRTOS tasks, and custom PCB designs.",
+    "joinUrl": "https://www.reddit.com/r/esp32/",
+    "tags": [
+      "esp32",
+      "bluetooth",
+      "esphome",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-11",
+    "title": "r/raspberry_pi Edge Compute & SBC Hub",
+    "platform": "Reddit",
+    "category": "Raspberry Pi",
+    "memberCount": "3,200,000+ members",
+    "description": "Raspberry Pi single board computers, GPIO interfaces, Pi-hole DNS sinks, and edge Home Assistant hubs.",
+    "joinUrl": "https://www.reddit.com/r/raspberry_pi/",
+    "tags": [
+      "raspberrypi",
+      "sbc",
+      "gpio",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-12",
+    "title": "r/linux Embedded Systems & Kernels",
+    "platform": "Reddit",
+    "category": "Linux",
+    "memberCount": "1,100,000+ members",
+    "description": "Linux distributions, systemd services, SSH remote management, and headless home server administration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "headless",
+      "sysadmin",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-13",
+    "title": "r/docker Containerized Home Servers",
+    "platform": "Reddit",
+    "category": "Docker",
+    "memberCount": "210,000+ members",
+    "description": "Docker Compose templates, container networking, persistent volume mounts, and automated updates.",
+    "joinUrl": "https://www.reddit.com/r/docker/",
+    "tags": [
+      "docker",
+      "compose",
+      "containers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-14",
+    "title": "r/Python Home Assistant Scripting",
+    "platform": "Reddit",
+    "category": "Python",
+    "memberCount": "1,250,000+ members",
+    "description": "Developing custom Python components, AppDaemon scripts, and async API bridges for Home Assistant.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "appdaemon",
+      "scripting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-discord-15",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Real-time help with Python coding, automation scripts, and asynchronous event loops.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "asyncio",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-telegram-16",
+    "title": "Python Automation Scripts Telegram",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Curated daily automation scripts, network sniffers, and MQTT telemetry listeners.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
       "telegram",
-      "tooling"
+      "automation",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-discord-17",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Software",
+    "memberCount": "220,000+ members",
+    "description": "Large multi-language software engineering Discord covering algorithms, embedded code, and automation.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "embedded",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-reddit-18",
-    "title": "r/golang Backend Hub",
+    "title": "r/programming Automation Logic & Firmware",
     "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Broad programming discussions on robust state machines, asynchronous event queues, and software architecture.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
     "tags": [
-      "golang",
-      "backend",
+      "programming",
+      "architecture",
+      "state-machine",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-reddit-19",
+    "title": "r/rust Embedded & Concurrency Hub",
+    "platform": "Reddit",
+    "category": "Rust",
+    "memberCount": "280,000+ members",
+    "description": "Rust language for embedded microcontrollers, memory safety without garbage collection, and real-time control.",
+    "joinUrl": "https://www.reddit.com/r/rust/",
+    "tags": [
+      "rust",
+      "embedded",
       "concurrency",
       "reddit"
     ],
@@ -306,85 +320,68 @@
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-discord-19",
-    "title": "Go Language Official Discord",
-    "platform": "Discord",
-    "category": "Backend Engineering",
-    "memberCount": "65,000+ members",
-    "description": "Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.",
-    "joinUrl": "https://discord.gg/golang",
+    "id": "home-assistant-local-smart-home-hub-forum-20",
+    "title": "Rust User Community Forum",
+    "platform": "Forum",
+    "category": "Rust Forum",
+    "memberCount": "70,000+ members",
+    "description": "Official forum for Rust engineers developing embedded crates, network protocols, and high-reliability systems.",
+    "joinUrl": "https://users.rust-lang.org",
     "tags": [
-      "golang",
-      "discord",
-      "backend",
-      "microservices"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-20",
-    "title": "r/typescript Architecture",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "190,000+ members",
-    "description": "Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.",
-    "joinUrl": "https://www.reddit.com/r/typescript/",
-    "tags": [
-      "typescript",
-      "javascript",
-      "webdev",
-      "reddit"
+      "rust",
+      "embedded",
+      "official",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-discord-21",
-    "title": "TypeScript Community Discord",
+    "title": "Rust Systems Discord Community",
     "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "55,000+ members",
-    "description": "Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.",
-    "joinUrl": "https://discord.gg/typescript",
+    "category": "Rust Discord",
+    "memberCount": "95,000+ members",
+    "description": "Discussions on no_std programming, async traits, embedded-hal drivers, and firmware engineering.",
+    "joinUrl": "https://discord.gg/rust-lang",
     "tags": [
-      "typescript",
-      "discord",
-      "frontend",
-      "types"
+      "rust",
+      "embedded",
+      "firmware",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-reddit-22",
-    "title": "r/cpp High Performance Systems",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "310,000+ members",
-    "description": "Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.",
-    "joinUrl": "https://www.reddit.com/r/cpp/",
+    "id": "home-assistant-local-smart-home-hub-telegram-22",
+    "title": "Rust Firmware & Embedded News Telegram",
+    "platform": "Telegram",
+    "category": "Rust News",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates on Rust embedded drivers, framework releases, and performance benchmarks.",
+    "joinUrl": "https://t.me/rust_lang_news",
     "tags": [
-      "cpp",
-      "systems",
-      "performance",
-      "reddit"
+      "telegram",
+      "rust",
+      "firmware",
+      "news"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-reddit-23",
-    "title": "r/webdev Builders Hub",
+    "title": "r/cpp Firmware & Real-Time Control",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "C++",
+    "memberCount": "310,000+ members",
+    "description": "Modern C++ (C++20/C++23) for microcontroller firmware, Arduino libraries, and low-latency serial buses.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
+      "cpp",
+      "firmware",
+      "microcontroller",
       "reddit"
     ],
     "verified": true,
@@ -392,119 +389,119 @@
   },
   {
     "id": "home-assistant-local-smart-home-hub-discord-24",
-    "title": "Devcord Web Developers",
+    "title": "Tech Community Discord",
     "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "General technology discussions covering smart devices, consumer hardware teardowns, and home networking.",
+    "joinUrl": "https://discord.gg/tech",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "tech",
+      "hardware",
+      "networking",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-discord-25",
-    "title": "Next.js Developers Discord",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "120,000+ members",
-    "description": "Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.",
-    "joinUrl": "https://discord.gg/nextjs",
+    "id": "home-assistant-local-smart-home-hub-telegram-25",
+    "title": "Cloud Native Infrastructure Telegram",
+    "platform": "Telegram",
+    "category": "Infrastructure",
+    "memberCount": "36,000+ members",
+    "description": "Cloud-native edge deployments, lightweight k3s clusters, and localized metrics monitoring.",
+    "joinUrl": "https://t.me/cloud_native_hub",
     "tags": [
-      "nextjs",
-      "react",
-      "frontend",
-      "discord"
+      "telegram",
+      "cloud-native",
+      "k3s",
+      "edge"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-discord-26",
-    "title": "Vue Land Community Discord",
+    "title": "Devcord IoT & Web Developer Discord",
     "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "85,000+ members",
-    "description": "The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.",
-    "joinUrl": "https://discord.gg/vue",
+    "category": "Devcord",
+    "memberCount": "75,000+ members",
+    "description": "Web interfaces and custom WebSockets dashboards for connected hardware and IoT sensors.",
+    "joinUrl": "https://discord.gg/devcord",
     "tags": [
-      "vue",
-      "nuxt",
-      "frontend",
+      "devcord",
+      "websockets",
+      "dashboards",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-discord-27",
-    "title": "Tailwind CSS Discord",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "72,000+ members",
-    "description": "Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.",
-    "joinUrl": "https://discord.gg/tailwind",
+    "id": "home-assistant-local-smart-home-hub-reddit-27",
+    "title": "r/webdev Local Dashboards & Web UI",
+    "platform": "Reddit",
+    "category": "Web Dev",
+    "memberCount": "2,200,000+ members",
+    "description": "Building responsive browser dashboards, Tailwind CSS controls, and fast real-time UI widgets.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
     "tags": [
-      "tailwind",
-      "css",
-      "frontend",
-      "discord"
+      "webdev",
+      "ui",
+      "dashboards",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "home-assistant-local-smart-home-hub-github-28",
-    "title": "Rust Language GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Systems Programming",
-    "memberCount": "100,000+ contributors",
-    "description": "Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.",
-    "joinUrl": "https://github.com/rust-lang/rust/discussions",
-    "tags": [
-      "rust",
-      "github",
-      "systems",
-      "rfc"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-github-29",
-    "title": "Next.js GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Frontend Engineering",
-    "memberCount": "130,000+ contributors",
-    "description": "Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.",
-    "joinUrl": "https://github.com/vercel/next.js/discussions",
-    "tags": [
-      "nextjs",
-      "github",
-      "react",
-      "ssr"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-forum-30",
-    "title": "Stack Overflow Python Questions",
+    "id": "home-assistant-local-smart-home-hub-forum-28",
+    "title": "Hacker News Hardware & IoT Discussions",
     "platform": "Forum",
-    "category": "Python Development",
-    "memberCount": "2,000,000+ members",
-    "description": "The world's largest repository of solved Python questions, debugging threads, and code snippets.",
-    "joinUrl": "https://stackoverflow.com/questions/tagged/python",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "Deep-dive technical discussions on smart home privacy, local-first computing, and open-source hardware.",
+    "joinUrl": "https://news.ycombinator.com",
     "tags": [
-      "python",
-      "stackoverflow",
-      "qa",
+      "ycombinator",
+      "local-first",
+      "privacy",
       "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-telegram-29",
+    "title": "Web Developers Hub Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev",
+    "memberCount": "48,000+ members",
+    "description": "Daily curated articles covering modern web protocols, WebRTC, and browser standards.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "telegram",
+      "webdev",
+      "webrtc",
+      "standards"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "home-assistant-local-smart-home-hub-telegram-30",
+    "title": "TechCrunch Smart Home & IoT Releases",
+    "platform": "Telegram",
+    "category": "Tech News",
+    "memberCount": "65,000+ members",
+    "description": "Industry announcements from Matter alliance partners, smart home hardware makers, and robotics.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "matter",
+      "smarthome",
+      "news"
     ],
     "verified": true,
     "featured": false
