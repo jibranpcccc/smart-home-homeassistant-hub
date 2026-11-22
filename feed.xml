@@ -4,10 +4,17 @@
     <title>Home Assistant &amp; Local Smart Home Hub</title>
     <link>https://jibranpcccc.github.io/smart-home-homeassistant-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 07:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:09:41 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/smart-home-homeassistant-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/homelab Self-Hosted Servers &amp; Hardware (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/smart-home-homeassistant-hub/#home-assistant-local-smart-home-hub-reddit-5-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 09:09:41 GMT</pubDate>
+      <description>Newly verified community added to Home Assistant &amp; Local Smart Home Hub: Rackmount servers, mini PCs, hypervisors (Proxmox/ESXi), UPS telemetry, and private cloud hosting.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/smarthome Connected Living &amp; IoT (Reddit)</title>
       <link>https://www.reddit.com/r/smarthome/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/smart-home-homeassistant-hub/#home-assistant-local-smart-home-hub-reddit-4-2026-11-21</guid>
@@ -173,13 +180,6 @@
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/smart-home-homeassistant-hub/#smart-home-homeassistant-hub-reddit-20261005-1-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 06:02:54 GMT</pubDate>
-      <description>Newly verified community added to Home Assistant &amp; Local Smart Home Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
-      <link>https://www.reddit.com/r/science/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/smart-home-homeassistant-hub/#smart-home-homeassistant-hub-reddit-20261005-1-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 06:02:53 GMT</pubDate>
       <description>Newly verified community added to Home Assistant &amp; Local Smart Home Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
     </item>
   </channel>
