@@ -1,5 +1,24 @@
 [
   {
+    "id": "home-assistant-local-smart-home-hub-discord-6",
+    "title": "Homelab & IoT Guild Discord",
+    "platform": "Discord",
+    "category": "Homelab",
+    "memberCount": "60,000+ members",
+    "description": "Active community discussing self-hosting, Docker services, network segmentation, and ZFS storage.",
+    "joinUrl": "https://discord.gg/homelab",
+    "tags": [
+      "homelab",
+      "selfhosted",
+      "networking",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "home-assistant-local-smart-home-hub-reddit-5",
     "title": "r/homelab Self-Hosted Servers & Hardware",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -473,24 +492,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-discord-6",
-    "title": "Homelab & IoT Guild Discord",
-    "platform": "Discord",
-    "category": "Homelab",
-    "memberCount": "60,000+ members",
-    "description": "Active community discussing self-hosting, Docker services, network segmentation, and ZFS storage.",
-    "joinUrl": "https://discord.gg/homelab",
-    "tags": [
-      "homelab",
-      "selfhosted",
-      "networking",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-reddit-7",
