@@ -1,5 +1,24 @@
 [
   {
+    "id": "home-assistant-local-smart-home-hub-reddit-7",
+    "title": "r/homeautomation Protocols & Custom Logic",
+    "platform": "Reddit",
+    "category": "Home Automation",
+    "memberCount": "2,100,000+ members",
+    "description": "Comprehensive resource for smart home hardware, relays, motorized shades, presence sensors, and scripts.",
+    "joinUrl": "https://www.reddit.com/r/homeautomation/",
+    "tags": [
+      "automation",
+      "sensors",
+      "relays",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "home-assistant-local-smart-home-hub-discord-6",
     "title": "Homelab & IoT Guild Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -492,24 +511,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-7",
-    "title": "r/homeautomation Protocols & Custom Logic",
-    "platform": "Reddit",
-    "category": "Home Automation",
-    "memberCount": "2,100,000+ members",
-    "description": "Comprehensive resource for smart home hardware, relays, motorized shades, presence sensors, and scripts.",
-    "joinUrl": "https://www.reddit.com/r/homeautomation/",
-    "tags": [
-      "automation",
-      "sensors",
-      "relays",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-reddit-8",
