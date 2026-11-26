@@ -1,5 +1,24 @@
 [
   {
+    "id": "home-assistant-local-smart-home-hub-reddit-9",
+    "title": "r/esp8266 Microcontrollers & Sensors",
+    "platform": "Reddit",
+    "category": "Microcontrollers",
+    "memberCount": "85,000+ members",
+    "description": "ESP8266 Wi-Fi modules, NodeMCU circuits, custom environmental telemetry sensors, and low-cost relays.",
+    "joinUrl": "https://www.reddit.com/r/esp8266/",
+    "tags": [
+      "esp8266",
+      "hardware",
+      "sensors",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "home-assistant-local-smart-home-hub-reddit-8",
     "title": "r/Zigbee Low-Power Mesh Networking",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -530,24 +549,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "home-assistant-local-smart-home-hub-reddit-9",
-    "title": "r/esp8266 Microcontrollers & Sensors",
-    "platform": "Reddit",
-    "category": "Microcontrollers",
-    "memberCount": "85,000+ members",
-    "description": "ESP8266 Wi-Fi modules, NodeMCU circuits, custom environmental telemetry sensors, and low-cost relays.",
-    "joinUrl": "https://www.reddit.com/r/esp8266/",
-    "tags": [
-      "esp8266",
-      "hardware",
-      "sensors",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "home-assistant-local-smart-home-hub-reddit-10",
